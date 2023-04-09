@@ -1,0 +1,8 @@
+.cart{
+    background-color: lightslategray;
+    border-radius: 10px;
+    /* width: 15%; */
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
